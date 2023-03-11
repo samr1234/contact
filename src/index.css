@@ -1,0 +1,25 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    font-family: sans-serif;
+}
+
+.header{
+
+    background: rgb(104, 201, 156);
+}
+
+.header h1{
+
+text-align: center;
+font-size: 2rem;
+padding-bottom:1rem;
+padding-top:1rem;
+border-bottom: 1px solid grey;
+
+}
